@@ -11,5 +11,5 @@
 [STEAM_TAG:qol]
 [STEAM_TAG:ui]
 [STEAM_METADATA:dfhack overlay]
-[STEAM_CHANGELOG:Initial release.]
+[STEAM_CHANGELOG:Workshop categories set to QoL and UI; cleaned up preview image. No functional changes.]
 [STEAM_FILE_ID:3796365874]
