@@ -10,6 +10,8 @@
 [STEAM_DESCRIPTION:Adds a button to the vanilla dig toolbar so DFHack's gui/design shape-based digging tool can be reached by pointing and clicking, without a keyboard. Made for the Steam Deck and other keyboard-less setups. REQUIRES DFHACK. DFHack is a separate free app on Steam (search for DFHack in the Steam store and install it next to Dwarf Fortress). Without DFHack this mod does nothing. HOW TO ENABLE. Subscribe to this mod and start the game with DFHack. The button is active in every world as soon as the mod is installed, you do not need to add it to a world's mod list. HOW TO USE. Open the dig toolbar. The pencil button sits just left of the dig icons. Hover it for a popup, click it or press Ctrl+G to open gui/design. Close gui/design with Esc or right click. To turn the button off, open gui/control-panel, go to the Overlays tab and untick gui/design-button.button, or run overlay disable gui/design-button.button in the DFHack console.]
 [STEAM_TAG:dfhack]
 [STEAM_TAG:mod]
+[STEAM_TAG:qol]
+[STEAM_TAG:ui]
 [STEAM_METADATA:dfhack overlay]
 [STEAM_CHANGELOG:Initial release.]
 [STEAM_FILE_ID:3796365874]
